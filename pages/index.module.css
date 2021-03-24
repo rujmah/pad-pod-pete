@@ -1,0 +1,9 @@
+.container {
+  background-color: #ffc5d9;
+  width: 100vw;
+  height: 100vh;
+}
+
+.welcome {
+  font-size: 24px;
+}
